@@ -122,11 +122,13 @@ you for the [miles](https://github.com/radixark/miles) framework and for the sup
 # Citation
 ```
 @misc{seta,
-  author    = {Qijia Shen and Jay Rainton and Aznaur Aliev and Ahmed Awelkair and Boyuan Ma and Zhiqi (Julie) Huang and Yuzhen Mao and Wendong Fan and Philip Torr and Bernard Ghanem and Changran Hu and Urmish Thakker and Guohao Li},
+  author    = {Qijia Shen and Zhiqi Huang and Vamsidhar Kamanuru and Aznaur Aliev and Jay Rainton and Ahmed Awelkair and Zhichen Zeng and Jiajun Li and Shi Dong and Yueming Yuan and Boyuan Ma and Qizheng Zhang and Jiwei Fu and Yuzhen Mao and Wendong Fan and Ping Nie and Philip Torr and Bernard Ghanem and Changran Hu and Jonathan Lingjie Li and Urmish Thakker and Guohao Li},
   title     = {{SETA: Scaling Environments for Terminal Agents}},
   year      = {2026},
-  month     = jan,
-  url       = {https://github.com/camel-ai/seta},
-  note      = {Blog: \url{https://eigent-ai.notion.site/SETA-Scaling-Environments-for-Terminal-Agents-2d2511c70ba280a9b7c0fe3e7f1b6ab8}}
+  month     = jul,
+  eprint    = {2607.10891},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url       = {https://arxiv.org/abs/2607.10891}
 }
 ```
